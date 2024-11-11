@@ -1,4 +1,45 @@
-CODIGO PRINCIPAL - CRIADO EM HTML
+TRABALHO FINAL – CODIGOS
+
+1-	Estrutura do Código:
+
+CABEÇALHO:
+
+```<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Gerenciamento - Medicina do Trabalho</title>
+  <link rel="stylesheet" href="style.css">
+</head>´´´
+
+Explicação: 
+
+•  <meta charset="UTF-8">: Define a codificação de caracteres do documento como UTF-8, que suporta caracteres especiais (como acentos e símbolos).
+•  <meta name="viewport" content="width=device-width, initial-scale=1.0">: Tornar o site responsivo para dispositivos móveis, ajustando a largura da página de acordo com a tela do dispositivo.
+•  <title>: Define o título da página, que aparecerá na aba do navegador.
+•  <link rel="stylesheet" href="style.css">: Conecta um arquivo CSS externo (style.css) para estilizar o HTML.
+
+
+2-	Corpo da Página
+
+O corpo contém várias seções, cada uma representando uma tela do sistema de gerenciamento.
+•	Menu de Navegação:
+```<div class="nav">
+  <button onclick="mostrarTela('login')">Login Admin</button>
+  <button onclick="mostrarTela('conveniadas')">Empresas Conveniadas</button>
+  <button onclick="mostrarTela('solicitantes')">Empresas Solicitantes</button>
+  <button onclick="mostrarTela('pacientes')">Cadastro de Pacientes</button>
+  <button onclick="mostrarTela('agendamentos')">Agendamento de Exames</button>
+  <button onclick="mostrarTela('visualizar')">Visualizar Cadastrados</button>
+</div>´´´
+
+
+
+
+
+
+
+
+
 
 
 ```<!DOCTYPE html>
