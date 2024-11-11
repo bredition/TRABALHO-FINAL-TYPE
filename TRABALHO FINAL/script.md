@@ -158,8 +158,7 @@ LOGO ABAIXO VEJA O CODIGO EM "HTML":
 
   <script src="script.js"></script>
 </body>
-</html>
-´´´
+</html>```
 
 
 2- Resumo:
