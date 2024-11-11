@@ -160,15 +160,12 @@
 </body>
 </html>```
 
+ Resumo:
+Este código CSS é usado para criar um layout de página simples e limpo com uma barra de navegação no topo e formulários centralizados.
 
-2- Resumo:
-1- Este código CSS é usado para criar um layout de página simples e limpo com uma barra de navegação no topo e formulários centralizados.
+Ele é responsivo, ajustando-se automaticamente para telas menores (como smartphones).
 
-2- Ele é responsivo, ajustando-se automaticamente para telas menores (como smartphones).
-
-3- Elementos interativos como botões e campos de entrada têm efeitos de transição suaves para melhorar a experiência do usuário.
-
-
+Elementos interativos como botões e campos de entrada têm efeitos de transição suaves para melhorar a experiência do usuário.
 
 
 
