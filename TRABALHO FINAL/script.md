@@ -1,12 +1,19 @@
 TRABALHO FINAL – CODIGOS
 
 Resumo das funcionalidades:
+
 1- Menu de navegação: Botões para alternar entre diferentes telas do sistema, como login, cadastro de empresas, pacientes, agendamento de exames, etc.
+
 2- Tela de Login: Formulário para o login do administrador.
+
 3- Cadastro de empresas: Formulários para cadastrar empresas conveniadas e solicitantes.
+
 4- Cadastro de pacientes: Formulário para cadastrar pacientes.
+
 5- Agendamento de exames: Formulário para registrar agendamentos de exames médicos.
+
 6- Visualização dos Cadastrados: Tela para visualizar todos os registros de empresas, pacientes e agendamentos.
+
 
 
 ```<!DOCTYPE html>
