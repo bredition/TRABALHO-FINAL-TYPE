@@ -1,6 +1,6 @@
-# TRABALHO FINAL – CODIGOS
+TRABALHO FINAL – CODIGOS
 
-## Resumo das funcionalidades:
+Resumo das funcionalidades:
 
 1- Menu de navegação: Botões para alternar entre diferentes telas do sistema, como login, cadastro de empresas, pacientes, agendamento de exames, etc.
 
@@ -14,7 +14,7 @@
 
 6- Visualização dos Cadastrados: Tela para visualizar todos os registros de empresas, pacientes e agendamentos.
 
-### LOGO ABAIXO VEJA O CODIGO EM "HTML":
+LOGO ABAIXO VEJA O CODIGO EM "HTML":
 
 ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩
 
@@ -158,7 +158,8 @@
 
   <script src="script.js"></script>
 </body>
-</html>```
+</html>
+```
 
  Resumo:
 Este código CSS é usado para criar um layout de página simples e limpo com uma barra de navegação no topo e formulários centralizados.
@@ -167,6 +168,9 @@ Ele é responsivo, ajustando-se automaticamente para telas menores (como smartph
 
 Elementos interativos como botões e campos de entrada têm efeitos de transição suaves para melhorar a experiência do usuário.
 
+### LOGO ABAIXO VEJA O CODIGO EM "TYPE SCRIPT":
+
+⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩
 
 
 ```typescript
