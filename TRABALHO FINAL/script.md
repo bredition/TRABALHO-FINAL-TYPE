@@ -14,6 +14,7 @@ Resumo das funcionalidades:
 
 6- Visualização dos Cadastrados: Tela para visualizar todos os registros de empresas, pacientes e agendamentos.
 
+LOGO ABAIXO VEJA O CODIGO EM "HTML"
 
 
 ```<!DOCTYPE html>
