@@ -172,7 +172,8 @@ LOGO ABAIXO VEJA O CODIGO EM "HTML":
 
 
 
-```body {
+```typescript
+body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -288,4 +289,5 @@ LOGO ABAIXO VEJA O CODIGO EM "HTML":
     .container {
       width: 90%;
     }
-  }```
+  }
+```
