@@ -1,6 +1,6 @@
 TRABALHO FINAL – CODIGOS
 
-Resumo das funcionalidades:
+↳ Resumo das funcionalidades:
 
 1- Menu de navegação: Botões para alternar entre diferentes telas do sistema, como login, cadastro de empresas, pacientes, agendamento de exames, etc.
 
@@ -14,7 +14,8 @@ Resumo das funcionalidades:
 
 6- Visualização dos Cadastrados: Tela para visualizar todos os registros de empresas, pacientes e agendamentos.
 
-LOGO ABAIXO VEJA O CODIGO EM "HTML"
+LOGO ABAIXO VEJA O CODIGO EM "HTML":
+⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 
 
 ```<!DOCTYPE html>
