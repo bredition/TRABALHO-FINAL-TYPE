@@ -1,26 +1,39 @@
-TRABALHO FINAL – CODIGOS
+# TRABALHO FINAL – CODIGOS
 
-Resumo das funcionalidades:
+# Sistema de Gerenciamento - Medicina do Trabalho
 
-1- Menu de navegação: Botões para alternar entre diferentes telas do sistema, como login, cadastro de empresas, pacientes, agendamento de exames, etc.
+Este projeto é uma aplicação web para o gerenciamento de dados relacionados à medicina do trabalho. Ele permite a interação com as seguintes funcionalidades:
 
-2- Tela de Login: Formulário para o login do administrador.
+### Funcionalidades
 
-3- Cadastro de empresas: Formulários para cadastrar empresas conveniadas e solicitantes.
+1. **Login de Administrador**:
+   - Tela de login onde o administrador pode inserir usuário e senha para acessar o sistema.
 
-4- Cadastro de pacientes: Formulário para cadastrar pacientes.
+2. **Cadastro de Empresas Conveniadas**:
+   - Permite o cadastro de empresas conveniadas, com informações como nome, CNPJ, endereço, telefone e email.
 
-5- Agendamento de exames: Formulário para registrar agendamentos de exames médicos.
+3. **Cadastro de Empresas Solicitantes de Exames**:
+   - Permite o cadastro de empresas solicitantes de exames, incluindo informações como nome da empresa, CNPJ, contato, telefone e lista de exames solicitados.
 
-6- Visualização dos Cadastrados: Tela para visualizar todos os registros de empresas, pacientes e agendamentos.
+4. **Cadastro de Pacientes**:
+   - Cadastro de pacientes com informações como nome, CPF, data de nascimento e telefone.
 
-LOGO ABAIXO VEJA O CODIGO EM "HTML":
+5. **Agendamento de Exames**:
+   - Permite o agendamento de exames para os pacientes, com dados como nome do paciente, empresa solicitante, data do exame e tipo de exame.
 
-⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩
+6. **Visualização dos Cadastrados**:
+   - Exibe as informações cadastradas em listas de empresas conveniadas, empresas solicitantes, pacientes e agendamentos.
 
+### Estrutura do Código
 
-```<!DOCTYPE html>
-<html lang="pt-BR">
+- **HTML**: Estrutura principal da página, com diferentes seções para cada funcionalidade (login, cadastro e visualização).
+- **CSS**: Arquivo externo (`style.css`) que define o estilo da página.
+- **JavaScript**: Arquivo externo (`script.js`) que controla a interação entre as telas e exibe/oculta as seções conforme as ações do usuário.
+
+### Como usar
+
+1. Clone o repositório em sua máquina local:
+   ```b<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -160,6 +173,7 @@ LOGO ABAIXO VEJA O CODIGO EM "HTML":
 </body>
 </html>
 ```
+
 
  Resumo:
 Este código CSS é usado para criar um layout de página simples e limpo com uma barra de navegação no topo e formulários centralizados.
