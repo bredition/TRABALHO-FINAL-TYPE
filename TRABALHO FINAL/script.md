@@ -33,6 +33,9 @@ Este projeto é uma aplicação web para o gerenciamento de dados relacionados �
 ### Como usar
 
 1. Clone o repositório em sua máquina local:
+   ````bash
+   https://github.com/bredition/TRABALHO-FINAL-TYPE.git
+ 
    ```b<html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
