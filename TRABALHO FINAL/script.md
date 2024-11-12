@@ -168,7 +168,7 @@ Ele é responsivo, ajustando-se automaticamente para telas menores (como smartph
 
 Elementos interativos como botões e campos de entrada têm efeitos de transição suaves para melhorar a experiência do usuário.
 
-### LOGO ABAIXO VEJA O CODIGO EM "TYPE SCRIPT":
+### LOGO ABAIXO VEJA O CODIGO EM "STYLES CSS":
 
 ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩   ⇩
 
