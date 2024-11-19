@@ -1,2 +1,102 @@
-                                                                                            TRABALHO FINAL  
-     
+                        Sistema de Gerenciamento - Medicina do Trabalho
+Bem-vindo ao Sistema de Gerenciamento - Medicina do Trabalho. Este site é projetado para gerenciar empresas conveniadas, solicitantes, pacientes e agendamentos de exames médicos. Abaixo estão descritas as funcionalidades e instruções para uso.
+
+Funcionalidades do Sistema
+
+1. Login de Administrador
+Tela de Login: A primeira tela do sistema exige o login com as credenciais de administrador.
+Usuário padrão: admin
+Senha padrão: senha123
+Caso o login falhe, uma mensagem de erro será exibida: "Usuário ou senha incorretos!".
+
+2. Cadastro de Empresas Conveniadas
+Permite registrar empresas que possuem convênio para realizar exames médicos.
+Campos disponíveis:
+Nome da Empresa
+CNPJ (com formatação automática)
+Endereço
+Telefone (com máscara (XX) XXXXX-XXXX)
+Email
+Botão de Cadastro: Adiciona a empresa à lista de conveniadas.
+
+3. Cadastro de Empresas Solicitantes
+Registra empresas que solicitam exames médicos para os pacientes.
+Campos disponíveis:
+Nome da Empresa
+CNPJ (com formatação automática)
+Nome do Contato
+Telefone do Contato
+Lista de Exames Solicitados (campo de texto livre)
+Botão de Cadastro: Adiciona a empresa à lista de solicitantes.
+
+4. Cadastro de Pacientes
+Permite registrar informações de pacientes.
+Campos disponíveis:
+Nome do Paciente
+CPF (com formatação automática)
+Data de Nascimento (selecionada no calendário)
+Telefone (com máscara (XX) XXXXX-XXXX)
+Botão de Cadastro: Salva as informações do paciente no sistema.
+
+5. Agendamento de Exames
+Gerencia agendamentos entre pacientes e empresas solicitantes.
+Campos disponíveis:
+Nome do Paciente
+Empresa Solicitante
+Data do Exame (selecionada no calendário)
+Tipo de Exame (campo texto para especificar, ex.: admissional, periódico)
+Botão de Agendamento: Adiciona o agendamento à lista.
+
+6. Visualização de Dados Cadastrados
+Exibe listas completas dos registros no sistema:
+Empresas Conveniadas: Nome e CNPJ.
+Empresas Solicitantes: Nome e CNPJ.
+Pacientes: Nome e CPF.
+Agendamentos: Nome do Paciente, Empresa Solicitante, e Data do Exame.
+Interface: Listas organizadas e atualizadas automaticamente ao cadastrar.
+
+7. Navegação Fácil
+O sistema usa botões de navegação na parte superior da página para acessar as diferentes telas:
+Login Admin
+Empresas Conveniadas
+Empresas Solicitantes
+Cadastro de Pacientes
+Agendamento de Exames
+Visualizar Cadastrados
+Personalizações e Melhorias
+Estilo Visual:
+
+O fundo do site é uma imagem (fundo.jpg) que cobre toda a tela sem cortes.
+Botões estilizados com cores contrastantes (ex.: amarelo com texto preto).
+Transições suaves ao passar o mouse sobre os botões.
+Formatadores Automáticos:
+
+CNPJ e Telefone formatados automaticamente ao digitar.
+Mensagens de Feedback:
+
+Confirmação ao cadastrar ou agendar dados com alertas do navegador.
+Mensagem de erro em caso de login inválido.
+Validação de Formulários:
+
+Campos obrigatórios com mensagens padrão do navegador.
+
+Como Usar o Sistema
+Login:
+Inicie o site e acesse com as credenciais de administrador.
+Cadastro:
+Navegue para a aba correspondente (Empresas Conveniadas, Empresas Solicitantes, Cadastro de Pacientes).
+Preencha os campos obrigatórios e clique em Cadastrar.
+Agendamento:
+Acesse a aba Agendamento de Exames, insira os dados e clique em Agendar.
+Visualizar Dados:
+Clique na aba Visualizar Cadastrados para verificar as informações registradas.
+Requisitos
+Navegador Moderno: O sistema foi testado em Chrome, Firefox e Edge.
+Servidor Local (opcional): Para hospedar o site, pode ser usado o VS Code Live Server ou similar.
+
+Autores:
+
+Gustavo Brandão Schenkel - 
+Kewin Lorente Magoga - 2303809
+Alessandra Bichara - 
+Livia Rodrigues - 
