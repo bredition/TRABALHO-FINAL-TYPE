@@ -1,4 +1,4 @@
-                        Sistema de Gerenciamento - Medicina do Trabalho
+                                     Sistema de Gerenciamento - Medicina do Trabalho
 Bem-vindo ao Sistema de Gerenciamento - Medicina do Trabalho. Este site é projetado para gerenciar empresas conveniadas, solicitantes, pacientes e agendamentos de exames médicos. Abaixo estão descritas as funcionalidades e instruções para uso.
 
 Funcionalidades do Sistema
@@ -63,33 +63,37 @@ Empresas Solicitantes
 Cadastro de Pacientes
 Agendamento de Exames
 Visualizar Cadastrados
-Personalizações e Melhorias
-Estilo Visual:
 
 O fundo do site é uma imagem (fundo.jpg) que cobre toda a tela sem cortes.
 Botões estilizados com cores contrastantes (ex.: amarelo com texto preto).
 Transições suaves ao passar o mouse sobre os botões.
-Formatadores Automáticos:
+Imagem original do fundo: https://br.freepik.com/vetores-gratis/consulta-medica-isometrica_6371530.htm#fromView=keyword&page=1&position=27&uuid=e4705470-a25d-4cd5-835f-771e3f858906
 
+Formatadores Automáticos:
 CNPJ e Telefone formatados automaticamente ao digitar.
 Mensagens de Feedback:
 
 Confirmação ao cadastrar ou agendar dados com alertas do navegador.
 Mensagem de erro em caso de login inválido.
-Validação de Formulários:
 
+Validação de Formulários:
 Campos obrigatórios com mensagens padrão do navegador.
 
 Como Usar o Sistema
+
 Login:
 Inicie o site e acesse com as credenciais de administrador.
+
 Cadastro:
 Navegue para a aba correspondente (Empresas Conveniadas, Empresas Solicitantes, Cadastro de Pacientes).
 Preencha os campos obrigatórios e clique em Cadastrar.
+
 Agendamento:
 Acesse a aba Agendamento de Exames, insira os dados e clique em Agendar.
+
 Visualizar Dados:
 Clique na aba Visualizar Cadastrados para verificar as informações registradas.
+
 Requisitos
 Navegador Moderno: O sistema foi testado em Chrome, Firefox e Edge.
 Servidor Local (opcional): Para hospedar o site, pode ser usado o VS Code Live Server ou similar.
@@ -97,6 +101,6 @@ Servidor Local (opcional): Para hospedar o site, pode ser usado o VS Code Live S
 Autores:
 
 Gustavo Brandão Schenkel - 
-Kewin Lorente Magoga - 2303809
+Kewin Lorente Magoga - 2403809
 Alessandra Bichara - 
 Livia Rodrigues - 
